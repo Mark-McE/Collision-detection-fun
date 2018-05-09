@@ -3,11 +3,11 @@ Just for fun, exploring Erlang language with some collision detection algorithms
 
 
 Coding challenge Task:  
-without any imports, create  class / types/ objects for:
-Circle
-Polygon
-Line Segment
-Point
+without any imports, create  class / types/ objects for:  
+Circle  
+Polygon  
+Line Segment  
+Point  
 Arc Segment <-- ED: this one is more complicated than it looks at first glance, you can do if you want
                     
 Implement detection of collision for these objects. The collision detection
